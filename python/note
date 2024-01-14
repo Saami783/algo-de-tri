@@ -1,0 +1,5 @@
+Pour executer python sur l'environnement virtuel :
+
+python3 -m venv venv
+
+pip install pandas matplotlib

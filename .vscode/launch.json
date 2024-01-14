@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/samibahij/Documents/Ecole/MIAGE/algorithme/projets/Algo/algo_tri/src",
+      "program": "/Users/samibahij/Documents/Ecole/MIAGE/algorithme/projets/Algo/algo_tri/src/build/Debug/outDebug"
+    }
+  ]
+}
